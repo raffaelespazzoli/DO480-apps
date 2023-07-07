@@ -10,4 +10,4 @@ images:
   - name: registry.redhat.io/rhel8/mysql-80
     newTag: 1-156
 
-namePrefix: -emea
+nameSuffix: -emea

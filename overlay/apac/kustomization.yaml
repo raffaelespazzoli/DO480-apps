@@ -6,4 +6,4 @@ resources:
   - route.yaml
 
 
-namePrefix: -apac
+nameSuffix: -apac
